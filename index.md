@@ -7,4 +7,4 @@
 
 ## Contact Me
 
-[chnzzh@outlook.com](chnzzh@outlook.com)
+[chnzzh@outlook.com](mailto:chnzzh@outlook.com)
