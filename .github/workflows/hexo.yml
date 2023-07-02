@@ -4,7 +4,7 @@ name: Deploy Hexo site to Pages
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [$default-branch]
+    branches: [ main ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -13,6 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       # clone notes
       - uses: actions/checkout@v3
         with:
@@ -21,7 +22,7 @@ jobs:
           path: my-notes
       
       - name: Copy notes to _posts
-        run: mkdir -p source/_posts && find my-notes -type f -name "*.md" -exec cp {} source/_posts/ \;
+        run: mkdir -p ./source/_posts && find my-notes -type f -name "*.md" -exec cp {} ./source/_posts/ \;
       
       # npm install
       - name: Use Node.js
