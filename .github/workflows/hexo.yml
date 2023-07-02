@@ -23,12 +23,7 @@ jobs:
       - name: Copy notes to _posts
         run: mkdir -p source/_posts && find my-notes -type f -name "*.md" -exec cp {} source/_posts/ \;
       
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
-      
       # npm install
-      - uses: actions/checkout@v3
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
