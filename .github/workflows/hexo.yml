@@ -37,6 +37,7 @@ jobs:
         uses: actions/configure-pages@v3
       
       # npm install
+      - uses: actions/checkout@v3
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
