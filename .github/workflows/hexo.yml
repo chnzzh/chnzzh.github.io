@@ -26,7 +26,7 @@ jobs:
           path: my-notes
       
       - name: Copy notes to _posts
-        run: mkdir -p ./source/_posts && find my-notes -type f -name "*.md" -exec cp {} ./source/_posts/ \;
+        run: mkdir -p ./source/_posts && rm -rf ./source/_posts/* && find my-notes -type f -name "*.md" -exec cp {} ./source/_posts/ \;
       
       # npm install
       - name: Use Node.js
