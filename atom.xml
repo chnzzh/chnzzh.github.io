@@ -6,7 +6,7 @@
   <link href="https://chnzzh.github.io/atom.xml" rel="self"/>
   
   <link href="https://chnzzh.github.io/"/>
-  <updated>2023-07-03T08:35:21.135Z</updated>
+  <updated>2023-07-03T20:20:59.470Z</updated>
   <id>https://chnzzh.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>通过内网穿透配置远程开发环境</title>
+    <link href="https://chnzzh.github.io/posts/56598/"/>
+    <id>https://chnzzh.github.io/posts/56598/</id>
+    <published>2023-07-03T20:20:59.470Z</published>
+    <updated>2023-07-03T20:20:59.470Z</updated>
+    
+    
+    <summary type="html">搭建frp服务器实现内网穿透</summary>
+    
+    
+    
+    <category term="Tips" scheme="https://chnzzh.github.io/categories/Tips/"/>
+    
+    
+    <category term="Tips" scheme="https://chnzzh.github.io/tags/Tips/"/>
+    
+    <category term="技巧" scheme="https://chnzzh.github.io/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+    <category term="计算机网络" scheme="https://chnzzh.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于技嘉UEFI BIOS后门漏洞的调研</title>
     <link href="https://chnzzh.github.io/posts/18825/"/>
     <id>https://chnzzh.github.io/posts/18825/</id>
     <published>2023-06-08T06:43:00.000Z</published>
-    <updated>2023-07-03T08:35:21.135Z</updated>
+    <updated>2023-07-03T20:20:59.470Z</updated>
     
     
     <summary type="html">关于技嘉UEFI BIOS后门漏洞的调研</summary>
@@ -44,7 +67,7 @@
     <link href="https://chnzzh.github.io/posts/4021/"/>
     <id>https://chnzzh.github.io/posts/4021/</id>
     <published>2023-04-14T16:00:00.000Z</published>
-    <updated>2023-07-03T08:35:21.135Z</updated>
+    <updated>2023-07-03T20:20:59.474Z</updated>
     
     
     <summary type="html">WSL2使用宿主机代理的方式</summary>
