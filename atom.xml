@@ -6,7 +6,7 @@
   <link href="https://chnzzh.github.io/atom.xml" rel="self"/>
   
   <link href="https://chnzzh.github.io/"/>
-  <updated>2023-08-07T20:17:25.293Z</updated>
+  <updated>2023-08-08T20:18:11.161Z</updated>
   <id>https://chnzzh.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://chnzzh.github.io/posts/26794/"/>
     <id>https://chnzzh.github.io/posts/26794/</id>
     <published>2023-07-11T09:00:00.000Z</published>
-    <updated>2023-08-07T20:17:25.293Z</updated>
+    <updated>2023-08-08T20:18:11.161Z</updated>
     
     
     <summary type="html">白嫖Github服务器，搭建一个每日自动同步文章的博客网站</summary>
@@ -48,7 +48,7 @@
     <link href="https://chnzzh.github.io/posts/23111/"/>
     <id>https://chnzzh.github.io/posts/23111/</id>
     <published>2023-06-19T12:06:53.000Z</published>
-    <updated>2023-08-07T20:17:25.293Z</updated>
+    <updated>2023-08-08T20:18:11.165Z</updated>
     
     
     <summary type="html">经典UEFI Bootkit的样本分析</summary>
@@ -71,7 +71,7 @@
     <link href="https://chnzzh.github.io/posts/47103/"/>
     <id>https://chnzzh.github.io/posts/47103/</id>
     <published>2023-06-08T06:43:00.000Z</published>
-    <updated>2023-08-07T20:17:25.293Z</updated>
+    <updated>2023-08-08T20:18:11.165Z</updated>
     
     
     <summary type="html">关于技嘉UEFI BIOS后门漏洞的调研</summary>
@@ -94,7 +94,7 @@
     <link href="https://chnzzh.github.io/posts/18129/"/>
     <id>https://chnzzh.github.io/posts/18129/</id>
     <published>2023-04-15T16:00:00.000Z</published>
-    <updated>2023-08-07T20:17:25.285Z</updated>
+    <updated>2023-08-08T20:18:11.157Z</updated>
     
     
     <summary type="html">通过调用UEFI的文件读写接口来实现在UEFI中FAT分区写入</summary>
@@ -115,7 +115,7 @@
     <link href="https://chnzzh.github.io/posts/63424/"/>
     <id>https://chnzzh.github.io/posts/63424/</id>
     <published>2023-04-14T16:00:00.000Z</published>
-    <updated>2023-08-07T20:17:25.289Z</updated>
+    <updated>2023-08-08T20:18:11.161Z</updated>
     
     
     <summary type="html">WSL2使用宿主机代理的方式</summary>
@@ -136,7 +136,7 @@
     <link href="https://chnzzh.github.io/posts/28454/"/>
     <id>https://chnzzh.github.io/posts/28454/</id>
     <published>2023-04-12T09:37:29.000Z</published>
-    <updated>2023-08-07T20:17:25.289Z</updated>
+    <updated>2023-08-08T20:18:11.157Z</updated>
     
     
     <summary type="html">EDK2开发环境安装</summary>
@@ -157,7 +157,7 @@
     <link href="https://chnzzh.github.io/posts/56598/"/>
     <id>https://chnzzh.github.io/posts/56598/</id>
     <published>2023-01-07T16:00:00.000Z</published>
-    <updated>2023-08-07T20:17:25.289Z</updated>
+    <updated>2023-08-08T20:18:11.161Z</updated>
     
     
     <summary type="html">搭建frp服务器实现内网穿透</summary>
